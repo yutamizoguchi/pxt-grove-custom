@@ -38,7 +38,7 @@ let TubeTab: number [] = [
 /**
  * Functions to operate Grove module.
  */
-//% weight=10 color=#9F79EE icon="\uf108" block="Grove"
+//% weight=1 color=#2F79EE icon="\uf108" block="Grove"
 namespace grove {
     
     let distanceBackup: number = 0;
